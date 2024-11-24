@@ -1,0 +1,1 @@
+export 'src/smoke_effect.dart';
